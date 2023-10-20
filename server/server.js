@@ -1,6 +1,3 @@
-//const express = require("express");
-//var bodyParser = require("body-parser");
-//var { decideAPiece } = require("../doble-9/decide")
 import express from 'express';
 import bodyParser from 'body-parser';
 import { decideAPiece } from '../doble-9/decide.js'
